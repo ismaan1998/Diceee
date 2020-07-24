@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Diceee is the simple application where you can get the values from 1 to 6 randomly.
 Each time you tap on dice, It will show, speak the number and vibrate. 
 Application link - <a href="">Diceee</a>
