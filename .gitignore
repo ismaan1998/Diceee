@@ -28,7 +28,10 @@
 .pub/
 build/
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6ba057fde8428b87d4b7625c73679519e8ac06b5
 # Android related
 **/android/**/gradle-wrapper.jar
 **/android/.gradle

@@ -323,7 +323,11 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = co.appbrewery.dicee;
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = com.indrajeet.diceee;
+>>>>>>> 6ba057fde8428b87d4b7625c73679519e8ac06b5
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -448,7 +452,11 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER =co.appbrewery.dicee;
+=======
+				PRODUCT_BUNDLE_IDENTIFIER =com.indrajeet.diceee;
+>>>>>>> 6ba057fde8428b87d4b7625c73679519e8ac06b5
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -471,7 +479,11 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = co.appbrewery.dicee;
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = com.indrajeet.diceee;
+>>>>>>> 6ba057fde8428b87d4b7625c73679519e8ac06b5
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
